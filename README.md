@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-The Movie Recommendation System is a machine learning-based application developed using IMDb movie data to provide movie recommendations based on available movie information and recommendation logic.
+The Movie Recommendation System is a machine learning-based application developed using IMDb movie data to provide relevant movie recommendations.
 
-The project involved working with movie datasets, data processing, recommendation logic, RESTful APIs, and backend application development.
+The project involved data processing, machine learning concepts, recommendation logic, backend development, and RESTful API integration.
 
-This project was developed during my **Full Stack Developer Internship at Naso Tech Pvt. Ltd.**
+The project was developed as part of my **Full Stack Developer Internship at Naso Tech Pvt. Ltd.**
 
 ---
 
@@ -19,27 +19,30 @@ This project was developed during my **Full Stack Developer Internship at Naso T
 
 ---
 
-## Project Objectives
+## Project Objective
 
-The main objectives of the project were:
+The main objective of the project was to develop a movie recommendation application using IMDb movie data and Machine Learning concepts.
 
-* To work with IMDb movie data for recommendation purposes.
-* To process and prepare movie-related data.
-* To implement movie recommendation logic using Machine Learning concepts.
-* To develop backend functionality for the application.
-* To work with RESTful APIs for application communication.
-* To understand the workflow involved in developing a full-stack application.
+The project provided practical exposure to:
+
+* Movie dataset handling and processing
+* Data preparation
+* Machine Learning-based recommendation logic
+* Backend application development
+* RESTful API integration
+* Full-stack application workflow
 
 ---
 
 ## Key Features
 
-* Movie data processing using IMDb dataset.
-* Machine Learning-based recommendation logic.
-* Backend data processing and application logic.
-* RESTful API integration.
-* Retrieval and handling of movie-related information.
-* Recommendation of relevant movies based on available data.
+* IMDb movie dataset processing
+* Movie data preparation and handling
+* Machine Learning-based recommendation functionality
+* Backend data processing
+* RESTful API integration
+* Movie information retrieval
+* Relevant movie recommendation
 
 ---
 
@@ -47,58 +50,62 @@ The main objectives of the project were:
 
 * Python
 * Machine Learning
-* RESTful APIs
 * IMDb Dataset
-* Backend Data Processing
+* RESTful APIs
+* Backend Development
+* Data Processing
 
 ---
 
 ## My Contributions
 
-During my internship as a **Full Stack Developer Intern**, I contributed to the development and implementation of the Movie Recommendation System.
+During my internship as a **Full Stack Developer Intern at Naso Tech Pvt. Ltd.**, I contributed to the development and implementation of the Movie Recommendation System.
 
 ### Data Processing
 
-* Worked with IMDb movie data for the recommendation system.
-* Performed data processing required for the application.
-* Worked with structured movie-related information for recommendation purposes.
+* Worked with IMDb movie data used for the recommendation system.
+* Performed data processing and preparation of movie-related information.
+* Worked with structured movie data required for recommendation functionality.
 
-### Recommendation Development
+### Machine Learning
 
-* Worked with Machine Learning concepts for implementing recommendation logic.
-* Supported the development of movie recommendation functionality.
-* Worked with processed movie data to generate relevant recommendations.
+* Applied Machine Learning concepts for developing recommendation functionality.
+* Worked with movie data to support the recommendation process.
+* Contributed to implementing logic for generating relevant movie recommendations.
 
 ### Backend Development
 
-* Worked on backend application logic and data processing.
+* Worked on backend application functionality and data processing.
 * Supported the integration of recommendation functionality with the application.
 * Worked with RESTful APIs for communication between application components.
 
-### Application Development
+### Full-Stack Development
 
-* Gained practical experience in the full-stack application development workflow.
-* Worked on integrating different application components.
-* Participated in project implementation and development activities.
+* Gained practical experience in full-stack application development.
+* Worked on integration between different application components.
+* Participated in project development and implementation activities.
+* Worked according to the project requirements and development workflow.
 
 ---
 
 ## Project Workflow
 
-The overall project workflow can be represented as:
+The overall application workflow can be represented as:
 
 ```text
 IMDb Movie Dataset
         ↓
 Data Processing
         ↓
-Movie Data Preparation
+Data Preparation
         ↓
-Machine Learning / Recommendation Logic
+Machine Learning
+        ↓
+Recommendation Logic
         ↓
 Backend Processing
         ↓
-RESTful APIs
+REST APIs
         ↓
 Movie Recommendations
 ```
@@ -107,18 +114,20 @@ Movie Recommendations
 
 ## Development Workflow
 
-The project involved the following development flow:
-
 ```text
 Requirement Understanding
         ↓
-Dataset Preparation
+Dataset Collection
         ↓
 Data Processing
         ↓
-Recommendation Logic
+Data Preparation
         ↓
-Backend Development
+Machine Learning
+        ↓
+Recommendation Development
+        ↓
+Backend Integration
         ↓
 REST API Integration
         ↓
@@ -131,29 +140,38 @@ Application Output
 
 ## Skills Demonstrated
 
-Through this project, I gained practical experience in:
-
 * Python Programming
-* Backend Development
-* RESTful API Development
-* Machine Learning Concepts
+* Machine Learning
 * Data Processing
+* Backend Development
+* REST API Development
+* API Integration
 * Dataset Handling
+* Full-Stack Development
 * Application Integration
-* Full Stack Development Workflow
 
 ---
 
 ## Project Outcome
 
-The project provided practical exposure to developing a recommendation-based application using real-world movie data.
+The project provided practical experience in developing a recommendation-based application using movie data and Machine Learning concepts.
 
-It helped strengthen my understanding of **Python, Machine Learning concepts, backend development, RESTful APIs, data processing, and full-stack application development**.
+It helped strengthen my understanding of **Python programming, data processing, Machine Learning, backend development, RESTful APIs, and full-stack application development**.
 
 ---
 
-## Internship Experience
+## Professional Acknowledgement
 
-This project was completed as part of my **Full Stack Developer Internship at Naso Tech Pvt. Ltd.**
+I would like to express my sincere gratitude to **Mr. Shiva Thirumazhusai, CEO of Naso Technologies Pvt. Ltd.,** for his guidance and support during my internship.
 
-The internship provided hands-on exposure to real-world software development practices, project implementation, backend processing, API integration, and application development.
+I am also thankful to **Mrs. Suganya Munuswamy, Lead Software Engineer at Naso Technologies Pvt. Ltd.,** for her guidance and support throughout the project and for providing valuable technical direction that helped me improve my practical software development skills.
+
+---
+
+## Internship Summary
+
+**Organization:** Naso Tech Pvt. Ltd.
+**Position:** Full Stack Developer Intern
+**Duration:** May 2024 – June 2024
+**Project:** Movie Recommendation System
+**Primary Areas:** Python | Machine Learning | Data Processing | Backend Development | REST APIs
