@@ -1,117 +1,159 @@
-# Naso Tech — Full Stack Developer Internship
+# Movie Recommendation System
 
-## Overview
+## Project Overview
 
-This repository documents my **Full Stack Developer Internship experience at Naso Tech Pvt. Ltd.**
+The Movie Recommendation System is a machine learning-based application developed using IMDb movie data to provide movie recommendations based on available movie information and recommendation logic.
 
-During the internship, I worked on web application development and gained practical experience in frontend and backend technologies, application development, database handling, and API-based communication.
+The project involved working with movie datasets, data processing, recommendation logic, RESTful APIs, and backend application development.
 
-The internship provided hands-on exposure to developing and integrating different components of a web application.
+This project was developed during my **Full Stack Developer Internship at Naso Tech Pvt. Ltd.**
 
 ---
 
 ## Internship Details
 
-| Detail           | Information                 |
-| ---------------- | --------------------------- |
-| **Organization** | Naso Tech Pvt. Ltd.         |
-| **Role**         | Full Stack Developer Intern |
-| **Duration**     | May 2024 – June 2024        |
-| **Domain**       | Web Application Development |
+**Organization:** Naso Tech Pvt. Ltd.
+**Role:** Full Stack Developer Intern
+**Duration:** May 2024 – June 2024
+**Project:** Movie Recommendation System
 
 ---
 
-## Technologies Used
+## Project Objectives
 
-* HTML
-* CSS
-* JavaScript
+The main objectives of the project were:
+
+* To work with IMDb movie data for recommendation purposes.
+* To process and prepare movie-related data.
+* To implement movie recommendation logic using Machine Learning concepts.
+* To develop backend functionality for the application.
+* To work with RESTful APIs for application communication.
+* To understand the workflow involved in developing a full-stack application.
+
+---
+
+## Key Features
+
+* Movie data processing using IMDb dataset.
+* Machine Learning-based recommendation logic.
+* Backend data processing and application logic.
+* RESTful API integration.
+* Retrieval and handling of movie-related information.
+* Recommendation of relevant movies based on available data.
+
+---
+
+## Technology Stack
+
 * Python
-* Flask
-* SQL
-* REST APIs
-* Git
-* GitHub
+* Machine Learning
+* RESTful APIs
+* IMDb Dataset
+* Backend Data Processing
 
 ---
 
 ## My Contributions
 
-During my Full Stack Developer Internship at Naso Tech Pvt. Ltd., I worked on application development activities involving frontend, backend, database, and API-related components.
+During my internship as a **Full Stack Developer Intern**, I contributed to the development and implementation of the Movie Recommendation System.
 
-### Frontend Development
+### Data Processing
 
-* Worked with HTML, CSS, and JavaScript for web application interfaces.
-* Worked on developing and improving user-facing application components.
-* Supported integration between frontend components and backend services.
+* Worked with IMDb movie data for the recommendation system.
+* Performed data processing required for the application.
+* Worked with structured movie-related information for recommendation purposes.
+
+### Recommendation Development
+
+* Worked with Machine Learning concepts for implementing recommendation logic.
+* Supported the development of movie recommendation functionality.
+* Worked with processed movie data to generate relevant recommendations.
 
 ### Backend Development
 
-* Worked with Python and Flask for backend application development.
-* Developed backend functionality required for application workflows.
-* Worked with server-side processing and application logic.
+* Worked on backend application logic and data processing.
+* Supported the integration of recommendation functionality with the application.
+* Worked with RESTful APIs for communication between application components.
 
-### Database
+### Application Development
 
-* Worked with SQL and database-related operations.
-* Supported data retrieval and processing required by application functionality.
-
-### API Development & Integration
-
-* Worked with REST API concepts and API-based communication.
-* Supported integration between frontend and backend components.
-* Tested and validated API-related functionality during development.
-
-### Development Practices
-
-* Worked with Git and GitHub for source-code version control.
-* Followed structured development practices while working on assigned tasks.
-* Participated in development discussions and implemented assigned requirements.
+* Gained practical experience in the full-stack application development workflow.
+* Worked on integrating different application components.
+* Participated in project implementation and development activities.
 
 ---
 
-## Project Work
+## Project Workflow
 
-### Movie Recommendation System
+The overall project workflow can be represented as:
 
-As part of my project work, I worked on a **Movie Recommendation System** using movie/IMDb-related data.
+```text
+IMDb Movie Dataset
+        ↓
+Data Processing
+        ↓
+Movie Data Preparation
+        ↓
+Machine Learning / Recommendation Logic
+        ↓
+Backend Processing
+        ↓
+RESTful APIs
+        ↓
+Movie Recommendations
+```
 
-The project focused on processing movie information and applying recommendation-related techniques to provide relevant movie suggestions.
+---
 
-### Key Areas
+## Development Workflow
 
-* Movie dataset processing
-* Data analysis and preparation
-* Recommendation logic
-* Application integration
-* API-based communication
-* Backend processing
+The project involved the following development flow:
 
-### Technologies
-
-**Python | Machine Learning | REST APIs | IMDb Dataset**
+```text
+Requirement Understanding
+        ↓
+Dataset Preparation
+        ↓
+Data Processing
+        ↓
+Recommendation Logic
+        ↓
+Backend Development
+        ↓
+REST API Integration
+        ↓
+Testing
+        ↓
+Application Output
+```
 
 ---
 
 ## Skills Demonstrated
 
-* Full Stack Web Development
-* Python Development
-* Flask
-* REST API Development & Integration
-* SQL
-* Database Handling
-* JavaScript
-* Frontend Development
+Through this project, I gained practical experience in:
+
+* Python Programming
 * Backend Development
-* Git & GitHub
+* RESTful API Development
+* Machine Learning Concepts
 * Data Processing
-* Machine Learning Basics
+* Dataset Handling
+* Application Integration
+* Full Stack Development Workflow
 
 ---
 
-## Internship Outcome
+## Project Outcome
 
-This internship provided practical exposure to full stack application development and helped me strengthen my understanding of how frontend interfaces, backend services, databases, and APIs work together as part of a complete application.
+The project provided practical exposure to developing a recommendation-based application using real-world movie data.
 
-It also provided experience in working on assigned development tasks, understanding application requirements, and following a structured software development workflow.
+It helped strengthen my understanding of **Python, Machine Learning concepts, backend development, RESTful APIs, data processing, and full-stack application development**.
+
+---
+
+## Internship Experience
+
+This project was completed as part of my **Full Stack Developer Internship at Naso Tech Pvt. Ltd.**
+
+The internship provided hands-on exposure to real-world software development practices, project implementation, backend processing, API integration, and application development.
